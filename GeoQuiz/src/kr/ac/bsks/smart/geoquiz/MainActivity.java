@@ -73,6 +73,7 @@ public class MainActivity extends Activity {
 		});
 		
 		updateQuestion();
+		
 		 
 		
 	}
